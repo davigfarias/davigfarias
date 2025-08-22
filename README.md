@@ -9,14 +9,14 @@
 
 ### 🤔 Sobre Mim
 
-Minha jornada na tecnologia é um pouco diferente: vim da área de educação, onde a comunicação e a adaptação eram minhas ferramentas diárias[cite: 23]. [cite_start]Hoje, aplico essa "didática" para escrever código limpo e construir soluções que as pessoas realmente entendam e gostem de usar[cite: 27, 28].
+Minha jornada na tecnologia é um pouco diferente: vim da área de educação, onde a comunicação e a adaptação eram minhas ferramentas diárias. Hoje, aplico essa "didática" para escrever código limpo e construir soluções que as pessoas realmente entendam e gostem de usar.
 
-Atualmente na **Wiz Co**, estou focado em evoluir um CRM proprietário, usando **PHP puro e JavaScript** para otimizar a operação e criar micro-aplicações que resolvem problemas reais do negócio[cite: 43, 44, 45]. [cite_start]O que me move é ver uma ideia se transformar em um sistema funcional que melhora o dia a dia de alguém[cite: 27, 47].
+Atualmente na **Wiz Co**, estou focado em evoluir um CRM proprietário, usando **PHP puro e JavaScript** para otimizar a operação e criar micro-aplicações que resolvem problemas reais do negócio. O que me move é ver uma ideia se transformar em um sistema funcional que melhora o dia a dia de alguém.
 
-- 🚀 **No trampo:** Desenvolvendo e mantendo um CRM customizado, com foco total em performance e usabilidade[cite: 44, 47].
-- 🌱 **Aprendendo:** Sempre de olho em Arquitetura de Software e boas práticas para construir sistemas mais robustos e escaláveis[cite: 28, 95].
+- 🚀 **No trampo:** Desenvolvendo e mantendo um CRM customizado, com foco total em performance e usabilidade.
+- 🌱 **Aprendendo:** Sempre de olho em Arquitetura de Software e boas práticas para construir sistemas mais robustos e escaláveis.
 - 💬 **Me pergunte sobre:** Minha transição de carreira, PHP, JavaScript, ou sobre como a tecnologia pode otimizar processos de negócio.
-- 📫 **Como me encontrar:** **seto.davigf@gmail.com** [cite: 2]
+- 📫 **Como me encontrar:** **seto.davigf@gmail.com**.
 
 ---
 
