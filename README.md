@@ -33,9 +33,10 @@ Atualmente na **Wiz Co**, estou focado em evoluir um CRM proprietário, usando *
 </p>
 <p align="center">
   <strong>BACK-END & BANCO DE DADOS:</strong><br>
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sql&logoColor=white"/>
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sql&logoColor=white"/>
 </p>
 <p align="center">
   <strong>PLATAFORMAS & CRM:</strong><br>
@@ -61,7 +62,7 @@ Atualmente na **Wiz Co**, estou focado em evoluir um CRM proprietário, usando *
   <a href="https://www.linkedin.com/in/davi-guerreiro-farias" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-  <a href="mailto:seto.davigf@gmail.com">
+  <a href="mailto:davegfarias@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
 </p>
