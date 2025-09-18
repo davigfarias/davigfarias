@@ -1,5 +1,5 @@
 <h1 align="center">E aí, tudo beleza? 👋 Eu sou o Davi Farias!</h1>
-<h3 align="center">Desenvolvedor Fullstack | PHP 🐘 | JavaScript 🚀 | React ⚛️</h3>
+<h3 align="center">Desenvolvedor Fullstack | PHP 🐘 | JavaScript 🚀 | React ⚛️ | 🐍 Python </h3>
 
 <p align="center">
   <em>Transformando café e código em soluções web com alta performance e escalabilidade[cite: 22].</em>
